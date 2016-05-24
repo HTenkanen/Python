@@ -7,6 +7,7 @@ The installation of Python and the package managing / maintenance is done using 
 
 ## Install Anaconda (miniconda)
 
+
 Create directory for Python related stuff:
 
     sudo su 
